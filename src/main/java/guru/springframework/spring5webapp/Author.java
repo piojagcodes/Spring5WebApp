@@ -12,8 +12,9 @@ import java.util.Set;
 public class Author {
     /**
      * stwórz zmienne firstname, lastname
-     * POJO potem HashSet
-     * film 5:41 Using JPA ENTINTIES
+     *
+     *
+     *
      */
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
