@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+
+        <beans>
+        <!--Lets create bean for Greetings -->
+        <bean id="greeting" class="guru.springframework.spring5webapp.bootstrap.DevBootstrap">
+        <property name="message" value="Hello Spring"></property>
+        </bean>
+
+        <bean id="contextStart" class="guru.springframework.spring5webapp.guru.springframework.spring5webapp.listener.ContextStartListener">
+
+
+        </bean>
+
+
+
+        </beans>
